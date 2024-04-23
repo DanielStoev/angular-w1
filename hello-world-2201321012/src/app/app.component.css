@@ -1,0 +1,16 @@
+h3{
+    cursor: pointer;
+}
+
+h3.active {
+    color: blue;
+}
+
+div.main {
+    padding: 20px;
+}
+
+div.additionalInfo {
+    border: 1px solid black;
+}
+
